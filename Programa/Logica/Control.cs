@@ -55,39 +55,8 @@ namespace Programa.Logica
             while ((linea = sr.ReadLine()) != null)
             {
                 cadena = linea.Split(';');
-                for (int i = 0; i < cadena.Length; i++)
-                {
-                    if (cadena[i] == "Enero")
-                    {
-                        String[] factu = linea.Split(';');
-                        facturaPagada(factu);
-                    }
-                    if (cadena[i] == "Febrero")
-                    {
-                        String[] factu = linea.Split(';');
-                        facturaPagada(factu);
-                    }
-                    if (cadena[i] == "Marzo")
-                    {
-                        String[] factu = linea.Split(';');
-                        facturaPagada(factu);
-                    }
-                    if (cadena[i] == "Abril")
-                    {
-                        String[] factu = linea.Split(';');
-                        facturaPagada(factu);
-                    }
-                    if (cadena[i] == "Mayo")
-                    {
-                        String[] factu = linea.Split(';');
-                        facturaPagada(factu);
-                    }
-                    if (cadena[i] == "Junio")
-                    {
-                        String[] factu = linea.Split(';');
-                        facturaPagada(factu);
-                    }
-                }
+                facturasPorSemestre(cadena, linea, "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio");
+
             }
             sr.Close();
         }
@@ -103,39 +72,7 @@ namespace Programa.Logica
             while ((linea = sr.ReadLine()) != null)
             {
                 cadena = linea.Split(';');
-                for (int i = 0; i < cadena.Length; i++)
-                {
-                    if (cadena[i] == "Julio")
-                    {
-                        String[] factu = linea.Split(';');
-                        facturaPagada(factu);
-                    }
-                    if (cadena[i] == "Agosto")
-                    {
-                        String[] factu = linea.Split(';');
-                        facturaPagada(factu);
-                    }
-                    if (cadena[i] == "Septiembre")
-                    {
-                        String[] factu = linea.Split(';');
-                        facturaPagada(factu);
-                    }
-                    if (cadena[i] == "Octubre")
-                    {
-                        String[] factu = linea.Split(';');
-                        facturaPagada(factu);
-                    }
-                    if (cadena[i] == "Noviembre")
-                    {
-                        String[] factu = linea.Split(';');
-                        facturaPagada(factu);
-                    }
-                    if (cadena[i] == "Diciembre")
-                    {
-                        String[] factu = linea.Split(';');
-                        facturaPagada(factu);
-                    }
-                }
+                facturasPorSemestre(cadena,linea,"Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
             }
             sr.Close();
         }
@@ -150,6 +87,44 @@ namespace Programa.Logica
                         + factura[3] + "|| Mes De La Factura: " + factura[4]+"||");
 
 
+                }
+            }
+        }
+
+
+        public void facturasPorSemestre(String[] cadena,String linea,String mes1,String mes2,String mes3,String mes4,String mes5,String mes6)
+        {
+            for (int i = 0; i < cadena.Length; i++)
+            {
+                if (cadena[i] == mes1)
+                {
+                    String[] factu = linea.Split(';');
+                    facturaPagada(factu);
+                }
+                if (cadena[i] == mes2)
+                {
+                    String[] factu = linea.Split(';');
+                    facturaPagada(factu);
+                }
+                if (cadena[i] == mes3)
+                {
+                    String[] factu = linea.Split(';');
+                    facturaPagada(factu);
+                }
+                if (cadena[i] == mes4)
+                {
+                    String[] factu = linea.Split(';');
+                    facturaPagada(factu);
+                }
+                if (cadena[i] == mes5)
+                {
+                    String[] factu = linea.Split(';');
+                    facturaPagada(factu);
+                }
+                if (cadena[i] == mes6)
+                {
+                    String[] factu = linea.Split(';');
+                    facturaPagada(factu);
                 }
             }
         }

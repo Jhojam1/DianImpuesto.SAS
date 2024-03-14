@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\DianImpuesto.SAS\\Programa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7F1AB1-F734-4C20-85A0-1BB725C1D9CF}|Programa.csproj|d:\\repositorio\\dianimpuesto.sas\\programa\\logica\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7F1AB1-F734-4C20-85A0-1BB725C1D9CF}|Programa.csproj|solutionrelative:logica\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7F1AB1-F734-4C20-85A0-1BB725C1D9CF}|Programa.csproj|d:\\repositorio\\dianimpuesto.sas\\programa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7F1AB1-F734-4C20-85A0-1BB725C1D9CF}|Programa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Control.cs",
+              "DocumentMoniker": "D:\\repositorio\\DianImpuesto.SAS\\Programa\\Logica\\Control.cs",
+              "RelativeDocumentMoniker": "Logica\\Control.cs",
+              "ToolTip": "D:\\repositorio\\DianImpuesto.SAS\\Programa\\Logica\\Control.cs",
+              "RelativeToolTip": "Logica\\Control.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:02:14.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\DianImpuesto.SAS\\Programa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\repositorio\\DianImpuesto.SAS\\Programa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:02:14.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
