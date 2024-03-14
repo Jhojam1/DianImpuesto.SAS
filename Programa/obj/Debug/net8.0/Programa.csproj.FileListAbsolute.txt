@@ -1,0 +1,15 @@
+D:\repositorio\DianImpuesto.SAS\Programa\bin\Debug\net8.0\Programa.exe
+D:\repositorio\DianImpuesto.SAS\Programa\bin\Debug\net8.0\Programa.deps.json
+D:\repositorio\DianImpuesto.SAS\Programa\bin\Debug\net8.0\Programa.runtimeconfig.json
+D:\repositorio\DianImpuesto.SAS\Programa\bin\Debug\net8.0\Programa.dll
+D:\repositorio\DianImpuesto.SAS\Programa\bin\Debug\net8.0\Programa.pdb
+D:\repositorio\DianImpuesto.SAS\Programa\obj\Debug\net8.0\Programa.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\DianImpuesto.SAS\Programa\obj\Debug\net8.0\Programa.AssemblyInfoInputs.cache
+D:\repositorio\DianImpuesto.SAS\Programa\obj\Debug\net8.0\Programa.AssemblyInfo.cs
+D:\repositorio\DianImpuesto.SAS\Programa\obj\Debug\net8.0\Programa.csproj.CoreCompileInputs.cache
+D:\repositorio\DianImpuesto.SAS\Programa\obj\Debug\net8.0\Programa.sourcelink.json
+D:\repositorio\DianImpuesto.SAS\Programa\obj\Debug\net8.0\Programa.dll
+D:\repositorio\DianImpuesto.SAS\Programa\obj\Debug\net8.0\refint\Programa.dll
+D:\repositorio\DianImpuesto.SAS\Programa\obj\Debug\net8.0\Programa.pdb
+D:\repositorio\DianImpuesto.SAS\Programa\obj\Debug\net8.0\Programa.genruntimeconfig.cache
+D:\repositorio\DianImpuesto.SAS\Programa\obj\Debug\net8.0\ref\Programa.dll
